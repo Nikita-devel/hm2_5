@@ -1,3 +1,5 @@
+[Main page](https://github.com/Nikita-devel) | [Python Web Page](https://github.com/Nikita-devel/Python_Web)
+
 # Asynchronous HTTP Requests with aiohttp
 
 This Python script demonstrates making asynchronous HTTP requests using the `aiohttp` library. It fetches content from multiple URLs concurrently.
